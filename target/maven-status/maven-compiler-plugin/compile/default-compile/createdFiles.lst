@@ -1,6 +1,7 @@
 com\mycompany\taller\interfaz\EliminarPais$5.class
 com\mycompany\taller\interfaz\EliminarPais$2.class
 com\mycompany\taller\database\conexion\factory\ConexionFactory.class
+com\mycompany\impl\ImplPatron.class
 com\mycompany\taller\interfaz\ModificarPais$6.class
 com\mycompany\taller\interfaz\Pais$3.class
 com\mycompany\taller\interfaz\ConsultarPais$5.class
